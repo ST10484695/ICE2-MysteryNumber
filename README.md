@@ -2,8 +2,13 @@
 ## Guessing Number Game
 
 **Student Name:** Shailynn Devereux
+
 **Student Number:** ST10484695
+
 **Subject:** Mobile App Scripting
+
+**Course:** Mobile Application and Web Development
+
 
 
 This Number guessing game is part of an ice task done in Mobile App Scripting,the purpose of this app was to ensure it generates a random number and gives the user a text saying whether it is 'too high' or 'too low'.
