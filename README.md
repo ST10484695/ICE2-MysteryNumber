@@ -9,6 +9,8 @@
 
 **Course:** Mobile Application and Web Development
 
+**GitHub Link:** https://github.com/ST10484695/ICE2-Number-Guessing-Game-SCD
+
 
 
 This Number guessing game is part of an ice task done in Mobile App Scripting,the purpose of this app was to ensure it generates a random number and gives the user a text saying whether it is 'too high' or 'too low'.
