@@ -5,7 +5,7 @@
 **Student Name:** Shailynn Devereux         
                 Samira Abdirahmaan
 
-**Student Number:** ST10484695
+**Student Number:** ST10484695,
                     ST10486310
 
 **Subject:** Mobile App Scripting
@@ -34,14 +34,21 @@ Working in a group was very helpful because in many places where one was confuse
 * The reset button would be used to reset the game so the user can replay the game.
 
 **Images of working Game on Emulator:**
+
 <img width="314" height="580" alt="Screenshot 2025-08-08 154432" src="https://github.com/user-attachments/assets/d5ffd1f3-07a1-48b6-9ebf-b06715709261" />
 * The image above shows the game when the user gets the number correct.
+
+  
 
 <img width="320" height="584" alt="Screenshot 2025-08-08 165618" src="https://github.com/user-attachments/assets/c9970eb2-bff1-4cee-9278-9c5b6d9a9823" />
 * This shows the game blank without any numbers in the input bar.
 
+  
+
 <img width="310" height="552" alt="Screenshot 2025-08-08 165633" src="https://github.com/user-attachments/assets/177dc93d-3cb3-48d3-b705-0cf574f40923" />
 * The Above Screenshot is if the users guess is too low.
+
+  
 
 <img width="304" height="561" alt="Screenshot 2025-08-08 165648" src="https://github.com/user-attachments/assets/08e6fff5-98bd-4a7d-9adf-bcdd451858d8" />
 * This screenshot show the result of what happens when the users successfully guesses the correct image.
